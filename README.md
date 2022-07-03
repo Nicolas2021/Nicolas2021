@@ -6,7 +6,7 @@
 
 - 🌱 Actualmente estoy aprendiendo en el bootcamp de Henry**
 
-- 💬 Pregúntame sobre **react, css, css advanced**
+- 💬 Pregúntame sobre **node, sql, express**
 
 - 📫 Como contactarse conmigo : 
   - Email: chavesnicolas32@gmail.com
