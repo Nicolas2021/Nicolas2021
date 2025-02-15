@@ -20,10 +20,6 @@
 <h3>Pokemon App <img align="center" src="https://cdn-icons-png.flaticon.com/128/1752/1752681.png" alt="bootstrap" width="40" height="40"/></h3>
 <h2>Technologies: ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</h2>
 
-![e5f00466-6dd2-424c-bf77-82a0d485dbca](https://user-images.githubusercontent.com/70153563/160897282-0b88f3e9-174d-408b-8a58-e8eb578987e9.jpg)
-![1d0862f3-85c9-4bc1-be93-37ec9db19648](https://user-images.githubusercontent.com/70153563/160897363-e6e8a8ec-ad69-4103-9733-4f26431debfb.jpg)
-![0e9c0727-721b-4a4f-b174-01c5defa7578](https://user-images.githubusercontent.com/70153563/160897373-4fe2a137-ff43-4d48-a298-afb0adb6607c.jpg)
-![53ea2807-881c-4f14-8bc6-49fb67eca588](https://user-images.githubusercontent.com/70153563/160897391-7304d21b-1193-4ba3-95c5-eac2e2948289.jpg)
 
 <h1></h1>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas2021&" alt="nicolas2021" /></p>
