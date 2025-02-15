@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Nicolas Chaves</h1>
+![image](https://github.com/user-attachments/assets/b282e66b-9106-43b9-9290-871ad4c88f13)<h1 align="center">Hola 👋, soy Nicolas Chaves</h1>
 <h3 align="center">Un apasionado desarrollador Full Stack</h3>
 <img src="https://talently.tech/blog/wp-content/uploads/2022/02/%C2%BFQue-es-un-framework-en-programacion-scaled.jpg"/>
 
@@ -18,6 +18,7 @@
 
 <h1 align="left">📌 Mis Proyectos: </h3>
 <h3>Pokemon App <img align="center" src="https://cdn-icons-png.flaticon.com/128/1752/1752681.png" alt="bootstrap" width="40" height="40"/></h3>
+<h3>Ambar-Celulares <img align="center" src="https://www.flaticon.com/free-icon/ui-design_7075369?term=celular&page=1&position=21&origin=search&related_id=7075369" alt="bootstrap" width="40" height="40"/></h3>
 <h2>Technologies: ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</h2>
 
 
