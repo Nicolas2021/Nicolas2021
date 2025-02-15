@@ -3,13 +3,11 @@
 
 <p align="center"> <img src="https://i.pinimg.com/736x/e6/4e/c1/e64ec1e23bff58b88e843078b58da44f.jpg" alt="nicolas2021" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo en el bootcamp de Henry**
-
 - 💬 Pregúntame sobre **node, sql, express**
 
 - 📫 Como contactarse conmigo : 
   - Email: chavesnicolas32@gmail.com
-  - Celular: +54 3815834085
+  - Celular: +54 3816177469
   - LinkedIn: https://www.linkedin.com/in/nicolaschavesjs/ 
 
 <h1 align="left">🚀 Lenguajes y Herramientas:</h1>
