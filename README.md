@@ -1,6 +1,5 @@
 <h1 align="center">Hola 👋, soy Nicolas Chaves</h1>
 <h3 align="center">Un apasionado desarrollador Full Stack</h3>
-<img src="https://talently.tech/blog/wp-content/uploads/2022/02/%C2%BFQue-es-un-framework-en-programacion-scaled.jpg"/>
 
 <p align="left"> <img src="https://i.pinimg.com/736x/e0/70/a0/e070a0fe5560532153a7bb51dd53a685.jpg" alt="nicolas2021" /> </p>
 
