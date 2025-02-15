@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Nicolas Chaves</h1>
 <h3 align="center">Un apasionado desarrollador Full Stack</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/736x/e0/70/a0/e070a0fe5560532153a7bb51dd53a685.jpg" alt="nicolas2021" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/736x/e6/4e/c1/e64ec1e23bff58b88e843078b58da44f.jpg" alt="nicolas2021" /> </p>
 
 - 🌱 Actualmente estoy aprendiendo en el bootcamp de Henry**
 
